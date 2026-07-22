@@ -1,0 +1,1916 @@
+[
+    {
+        "timestamp": "2026-04-20 04:17:22.137849",
+        "video_score": 0.2,
+        "audio_score": 0.1,
+        "final_score": 0.15,
+        "verification": {
+            "verification_status": "NORMAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 04:17:26.597026",
+        "video_score": 0.2,
+        "audio_score": 0.1,
+        "final_score": 0.15,
+        "verification": {
+            "verification_status": "NORMAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 04:17:50.864244",
+        "video_score": 0.2,
+        "audio_score": 0.1,
+        "final_score": 0.15,
+        "verification": {
+            "verification_status": "NORMAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 04:18:02.837580",
+        "video_score": 0.2,
+        "audio_score": 0.1,
+        "final_score": 0.15,
+        "verification": {
+            "verification_status": "NORMAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 04:18:03.664358",
+        "video_score": 0.2,
+        "audio_score": 0.1,
+        "final_score": 0.15,
+        "verification": {
+            "verification_status": "NORMAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 04:18:04.623594",
+        "video_score": 0.2,
+        "audio_score": 0.1,
+        "final_score": 0.15,
+        "verification": {
+            "verification_status": "NORMAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 11:47:50.859013",
+        "video_score": 0.15384136140346527,
+        "audio_score": 0.006290053948760033,
+        "final_score": 0.08006570767611265,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 11:49:35.107049",
+        "video_score": 0.1326887458562851,
+        "audio_score": 0.002156079513952136,
+        "final_score": 0.06742241268511862,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 11:49:55.362230",
+        "video_score": 0.1326887458562851,
+        "audio_score": 0.002156079513952136,
+        "final_score": 0.06742241268511862,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:21:27.826631",
+        "video_score": 0.16422155499458313,
+        "audio_score": 0.0020223024766892195,
+        "final_score": 0.08312192873563617,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:22:12.660822",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:22:15.842025",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:22:57.841213",
+        "video_score": 0.17843659222126007,
+        "audio_score": 0.0017889513401314616,
+        "final_score": 0.09011277178069577,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:24:00.709881",
+        "video_score": 0.17713163793087006,
+        "audio_score": 0.008698942139744759,
+        "final_score": 0.09291529003530741,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:26:31.058420",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:26:32.953190",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:26:33.507802",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:26:33.737366",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:26:53.987018",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:26:57.020457",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:26:57.666920",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:26:57.888896",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:28:01.399303",
+        "video_score": 0,
+        "audio_score": 0.3752906322479248,
+        "final_score": 0.22517437934875487,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "ALERT",
+        "system_action_result": "ALERT"
+    },
+    {
+        "timestamp": "2026-04-20 12:28:27.844140",
+        "video_score": 0,
+        "audio_score": 0.9853472709655762,
+        "final_score": 0.9853472709655762,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-20 12:50:02.348416",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:50:05.480551",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:50:15.348933",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:50:15.921274",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:50:16.142402",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:51:11.714054",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:51:16.485710",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:51:34.562680",
+        "video_score": 0.021621622145175934,
+        "audio_score": 0.00252727372571826,
+        "final_score": 0.012074447935447097,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:51:47.740724",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:51:50.373807",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:51:51.062378",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 12:52:20.962469",
+        "video_score": 0,
+        "audio_score": 0.9875929951667786,
+        "final_score": 0.9875929951667786,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-20 12:54:52.520386",
+        "video_score": 0.08193744719028473,
+        "audio_score": 0.003573565511032939,
+        "final_score": 0.042755506350658834,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 16:27:12.440401",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 22:18:18.856443",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 22:18:51.509543",
+        "video_score": 0,
+        "audio_score": 0.0013978799106553197,
+        "final_score": 0.0006989399553276598,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-20 22:19:14.555507",
+        "video_score": 0,
+        "audio_score": 0.9901712536811829,
+        "final_score": 0.9901712536811829,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-21 00:53:32.694070",
+        "video_score": 0,
+        "audio_score": 0.003616846865043044,
+        "final_score": 0.001808423432521522,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 00:54:09.984639",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 00:54:39.208987",
+        "video_score": 0,
+        "audio_score": 0.9877012372016907,
+        "final_score": 0.9877012372016907,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-21 01:03:15.450294",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 01:03:40.747538",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 01:04:40.583756",
+        "video_score": 0.1326887458562851,
+        "audio_score": 0.002156079513952136,
+        "final_score": 0.06742241268511862,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 01:05:28.935564",
+        "video_score": 0,
+        "audio_score": 0.8377334475517273,
+        "final_score": 0.8377334475517273,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-21 10:11:35.192323",
+        "video_score": 0.10092202574014664,
+        "audio_score": 0.06704414635896683,
+        "final_score": 0.08398308604955673,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:14:34.181282",
+        "video_score": 0.10893665254116058,
+        "audio_score": 0.0019035526784136891,
+        "final_score": 0.055420102609787136,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:15:03.273201",
+        "video_score": 0.20212766528129578,
+        "audio_score": 0.06704400479793549,
+        "final_score": 0.13458583503961563,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:15:22.663572",
+        "video_score": 0.1358024626970291,
+        "audio_score": 0.0023541199043393135,
+        "final_score": 0.06907829130068421,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:15:41.904637",
+        "video_score": 0.08193744719028473,
+        "audio_score": 0.003573565511032939,
+        "final_score": 0.042755506350658834,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:16:05.328884",
+        "video_score": 0.15384136140346527,
+        "audio_score": 0.006290053948760033,
+        "final_score": 0.08006570767611265,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:16:21.828664",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:16:53.336825",
+        "video_score": 0.17713163793087006,
+        "audio_score": 0.008698942139744759,
+        "final_score": 0.09291529003530741,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:17:27.810435",
+        "video_score": 0.021621622145175934,
+        "audio_score": 0.00252727372571826,
+        "final_score": 0.012074447935447097,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:18:03.430254",
+        "video_score": 0.11281488090753555,
+        "audio_score": 0.0019587313290685415,
+        "final_score": 0.05738680611830205,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:18:51.156257",
+        "video_score": 0.12621359527111053,
+        "audio_score": 0.002133491914719343,
+        "final_score": 0.06417354359291494,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:19:08.363472",
+        "video_score": 0,
+        "audio_score": 0.9905242323875427,
+        "final_score": 0.9905242323875427,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-21 10:56:52.785864",
+        "video_score": 0.16422155499458313,
+        "audio_score": 0.0020223024766892195,
+        "final_score": 0.08312192873563617,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:57:34.127810",
+        "video_score": 0.20188316702842712,
+        "audio_score": 0.010575312189757824,
+        "final_score": 0.10622923960909247,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 10:58:21.504540",
+        "video_score": 0,
+        "audio_score": 0.986936628818512,
+        "final_score": 0.986936628818512,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-21 11:06:04.736636",
+        "video_score": 0.18563510477542877,
+        "audio_score": 0.002260875189676881,
+        "final_score": 0.09394798998255283,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 11:13:19.325114",
+        "video_score": 0.15851041674613953,
+        "audio_score": 0.0021792848128825426,
+        "final_score": 0.08034485077951103,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 11:23:42.223172",
+        "video_score": 0.21196886897087097,
+        "audio_score": 0.0018019137205556035,
+        "final_score": 0.08586869582068175,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 11:28:19.811005",
+        "video_score": 0.08420614898204803,
+        "audio_score": 0.06704414635896683,
+        "final_score": 0.07562514767050743,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 11:33:53.592074",
+        "video_score": 0.12820513546466827,
+        "audio_score": 0.06704414635896683,
+        "final_score": 0.09762464091181755,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 12:05:48.912025",
+        "video_score": 0.08193744719028473,
+        "audio_score": 0.003573565511032939,
+        "final_score": 0.042755506350658834,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 12:07:09.862522",
+        "video_score": 0,
+        "audio_score": 0.9890311360359192,
+        "final_score": 0.9890311360359192,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-21 12:10:00.349506",
+        "video_score": 0.1326887458562851,
+        "audio_score": 0.002156079513952136,
+        "final_score": 0.06742241268511862,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 17:27:26.656900",
+        "video_score": 0.1326887458562851,
+        "audio_score": 0.002156079513952136,
+        "final_score": 0.06742241268511862,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-21 17:28:04.324453",
+        "video_score": 0,
+        "audio_score": 0.981765627861023,
+        "final_score": 0.981765627861023,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 00:39:54.565497",
+        "video_score": 0,
+        "audio_score": 0.9927765130996704,
+        "final_score": 0.9927765130996704,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 00:42:27.669161",
+        "video_score": 0,
+        "audio_score": 0.9875929951667786,
+        "final_score": 0.9875929951667786,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 04:21:55.169985",
+        "video_score": 0.08193744719028473,
+        "audio_score": 0.003573565511032939,
+        "final_score": 0.042755506350658834,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 04:22:28.491918",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 04:23:11.866075",
+        "video_score": 0,
+        "audio_score": 0.9929633736610413,
+        "final_score": 0.9929633736610413,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 04:27:14.798008",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 04:27:55.305950",
+        "video_score": 0.10893665254116058,
+        "audio_score": 0.0019035526784136891,
+        "final_score": 0.055420102609787136,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 04:36:33.336787",
+        "video_score": 0.03793855756521225,
+        "audio_score": 0.9932112097740173,
+        "final_score": 0.9932112097740173,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 04:37:39.780999",
+        "video_score": 0.03793855756521225,
+        "audio_score": 0.9932112097740173,
+        "final_score": 0.9932112097740173,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 04:39:53.279560",
+        "video_score": 0.1326887458562851,
+        "audio_score": 0.002156079513952136,
+        "final_score": 0.06742241268511862,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 04:40:49.801126",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 04:54:45.573653",
+        "video_score": 0.1838362216949463,
+        "audio_score": 0.001759264268912375,
+        "final_score": 0.09279774298192933,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 04:58:34.063899",
+        "video_score": 0.18308424949645996,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.8027368187904358,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 05:01:35.144903",
+        "video_score": 0.18308424949645996,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5548757910728455,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 05:05:25.573232",
+        "video_score": 0.18308424949645996,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5548757910728455,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 05:06:07.302327",
+        "video_score": 0.15384136140346527,
+        "audio_score": 0.006290053948760033,
+        "final_score": 0.08006570767611265,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 05:15:53.865325",
+        "video_score": 0.1838362216949463,
+        "audio_score": 0.001759264268912375,
+        "final_score": 0.09279774298192933,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 05:16:29.909795",
+        "video_score": 0.18308424949645996,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5548757910728455,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 11:14:06.976749",
+        "video_score": 0,
+        "audio_score": 0,
+        "final_score": 0.0,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 11:14:43.962529",
+        "video_score": 0.1838362216949463,
+        "audio_score": 0.001759264268912375,
+        "final_score": 0.09279774298192933,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 11:15:55.978031",
+        "video_score": 0.18308424949645996,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5548757910728455,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-22 11:42:35.835237",
+        "video_score": 0.1326887458562851,
+        "audio_score": 0.002156079513952136,
+        "final_score": 0.06742241268511862,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-22 11:43:15.703860",
+        "video_score": 0,
+        "audio_score": 0.9940751791000366,
+        "final_score": 0.596445107460022,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-27 15:31:41.533935",
+        "video_score": 0.08193744719028473,
+        "audio_score": 0.003573565511032939,
+        "final_score": 0.042755506350658834,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 15:32:01.954875",
+        "video_score": 0.18308424949645996,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5548757910728455,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-27 15:37:53.233375",
+        "video_score": 0.18308424949645996,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5548757910728455,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-27 15:54:01.162975",
+        "video_score": 0.27272728085517883,
+        "audio_score": 0.00296216132119298,
+        "final_score": 0.11086820913478733,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 16:46:28.793553",
+        "video_score": 0.25713860988616943,
+        "audio_score": 0.001650919090025127,
+        "final_score": 0.10384599540848286,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 16:47:18.237759",
+        "video_score": 0.18886612355709076,
+        "audio_score": 0.0019862214103341103,
+        "final_score": 0.09542617248371243,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 16:49:21.273948",
+        "video_score": 0.27272728085517883,
+        "audio_score": 0.00296216132119298,
+        "final_score": 0.11086820913478733,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 16:49:44.568382",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-27 23:10:18.317633",
+        "video_score": 0.15839508175849915,
+        "audio_score": 0.0019754054956138134,
+        "final_score": 0.08018524362705648,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 23:10:33.126664",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:11:01.482327",
+        "video_score": 0.27272728085517883,
+        "audio_score": 0.00296216132119298,
+        "final_score": 0.11086820913478733,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 23:12:41.904947",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:13:15.540007",
+        "video_score": 0.27272728085517883,
+        "audio_score": 0.00296216132119298,
+        "final_score": 0.11086820913478733,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 23:14:07.516948",
+        "video_score": 0,
+        "audio_score": 0.9826529026031494,
+        "final_score": 0.5895917415618896,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:14:27.605201",
+        "video_score": 0,
+        "audio_score": 0.9870874881744385,
+        "final_score": 0.5922524929046631,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:14:49.132576",
+        "video_score": 0,
+        "audio_score": 0.9879431128501892,
+        "final_score": 0.5927658677101135,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:15:11.427935",
+        "video_score": 0,
+        "audio_score": 0.991309642791748,
+        "final_score": 0.5947857856750488,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:16:06.206101",
+        "video_score": 0,
+        "audio_score": 0.9954948425292969,
+        "final_score": 0.5972969055175781,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:19:41.347580",
+        "video_score": 0.20971466600894928,
+        "audio_score": 0.0019128004787489772,
+        "final_score": 0.0850335466908291,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 23:20:02.677068",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.8027368187904358,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-27 23:21:57.371043",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.8027368187904358,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-27 23:23:57.306691",
+        "video_score": 0.27272728085517883,
+        "audio_score": 0.00296216132119298,
+        "final_score": 0.11086820913478733,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 23:24:19.446168",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:24:48.632815",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:24:59.428320",
+        "video_score": 0.27272728085517883,
+        "audio_score": 0.00296216132119298,
+        "final_score": 0.11086820913478733,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-27 23:28:56.089970",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-27 23:29:06.316604",
+        "video_score": 0.31519410014152527,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.6077197313308715,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-28 10:11:03.230879",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-28 10:11:40.546654",
+        "video_score": 0.16033978760242462,
+        "audio_score": 0.0028516186866909266,
+        "final_score": 0.08159570314455777,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "LIKELY REAL",
+            "verification_status": "LIKELY REAL"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-28 10:12:17.758730",
+        "video_score": 0.31519410014152527,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.6077197313308715,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-28 11:47:07.954717",
+        "video_score": 0.20249861478805542,
+        "audio_score": 0.0020540310069918633,
+        "final_score": 0.0822318645194173,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-28 11:47:32.672492",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-28 11:48:08.622712",
+        "video_score": 0.31519410014152527,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.6077197313308715,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-28 12:22:48.782947",
+        "video_score": 0.20249861478805542,
+        "audio_score": 0.0020540310069918633,
+        "final_score": 0.0822318645194173,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-28 12:23:56.884963",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-28 12:24:30.458229",
+        "video_score": 0.31519410014152527,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.6077197313308715,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-28 12:39:55.645653",
+        "video_score": 0.20249861478805542,
+        "audio_score": 0.0020540328696370125,
+        "final_score": 0.08223186563700438,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-28 12:41:04.090511",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-28 12:42:27.120112",
+        "video_score": 0.31519410014152527,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.6077197313308715,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-04-28 12:57:04.475192",
+        "video_score": 0.20249861478805542,
+        "audio_score": 0.0020540328696370125,
+        "final_score": 0.08223186563700438,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "CONSISTENT",
+            "statistical_check": "UNCERTAIN",
+            "verification_status": "UNCERTAIN"
+        },
+        "action": "ALLOW",
+        "system_action_result": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-04-28 13:04:21.474123",
+        "video_score": 0.11052796989679337,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.5258532792329788,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "FLAG",
+        "system_action_result": "FLAGGED"
+    },
+    {
+        "timestamp": "2026-04-28 13:05:01.412671",
+        "video_score": 0.31519410014152527,
+        "audio_score": 0.8027368187904358,
+        "final_score": 0.6077197313308715,
+        "verification": {
+            "frame_stability": "UNKNOWN",
+            "modal_consistency": "INCONSISTENT",
+            "statistical_check": "HIGH FAKE PROBABILITY",
+            "verification_status": "SUSPICIOUS (MODAL CONFLICT)"
+        },
+        "action": "BLOCK",
+        "system_action_result": "BLOCKED"
+    }
+]

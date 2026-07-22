@@ -1,0 +1,154 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-dark: #010409;
+  --emerald-primary: #10b981;
+  --emerald-glow: rgba(16, 185, 129, 0.18);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --text-primary: #f8fafc;
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+  position: relative;
+}
+
+/* --- THE NEURAL HUB BACKGROUND --- */
+/* This replaces the old simple glow with a multi-layered atmospheric light */
+.bg-neural-mesh {
+  position: fixed;
+  inset: 0;
+  background: 
+    radial-gradient(circle at 50% 20%, var(--emerald-glow) 0%, transparent 50%),
+    radial-gradient(circle at 0% 0%, rgba(34, 211, 238, 0.05) 0%, transparent 30%),
+    radial-gradient(circle at 100% 100%, rgba(16, 185, 129, 0.03) 0%, transparent 30%);
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* --- HUD & SCANNING ANIMATIONS --- */
+@keyframes scanning {
+  0% { transform: translateY(-100%); opacity: 0; }
+  20% { opacity: 1; }
+  80% { opacity: 1; }
+  100% { transform: translateY(400%); opacity: 0; }
+}
+
+.animate-hud-scan {
+  animation: scanning 4s linear infinite;
+}
+
+/* Custom animation for the spin-rings in your logo */
+@keyframes slow-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.animate-spin-slow {
+  animation: slow-spin 8s linear infinite;
+}
+
+/* --- COMPONENT STYLING --- */
+
+/* Ultra-Premium Glass Panels */
+.glass-panel {
+  background: rgba(13, 18, 28, 0.75);
+  backdrop-filter: blur(24px) saturate(180%);
+  border: 1px solid var(--glass-border);
+  border-radius: 32px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-panel:hover {
+  border-color: rgba(16, 185, 129, 0.3);
+  background: rgba(13, 18, 28, 0.85);
+  box-shadow: 0 0 30px rgba(16, 185, 129, 0.05);
+}
+
+/* Tactical Inputs */
+.auth-input {
+  width: 100%;
+  padding: 16px 20px;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  color: white;
+  font-family: 'JetBrains Mono', monospace; /* For that hacker/terminal feel */
+  font-size: 14px;
+  transition: all 0.3s;
+}
+
+.auth-input:focus {
+  outline: none;
+  border-color: var(--emerald-primary);
+  background: rgba(16, 185, 129, 0.03);
+  box-shadow: 0 0 15px rgba(16, 185, 129, 0.1);
+}
+
+/* --- TYPOGRAPHY --- */
+
+/* Huge Hero Title with Gradient */
+.text-brand-large {
+  @apply text-[90px] md:text-[130px] font-black tracking-tighter leading-none;
+  background: linear-gradient(to bottom, #ffffff 40%, #10b981 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 30px rgba(16, 185, 129, 0.2));
+}
+
+.text-hero-sub {
+  @apply text-5xl md:text-6xl font-bold tracking-tight leading-tight text-white;
+}
+
+/* Custom Scrollbar for the 'Hacker' feel */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-dark);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(16, 185, 129, 0.2);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--emerald-primary);
+}
+
+/* Masking for the Image Analysis visualization */
+.mask-radar {
+  mask-image: radial-gradient(circle, black 50%, transparent 100%);
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slideIn {
+  animation: slideIn 0.4s ease-out;
+}
+
+@keyframes glitch {
+  0% { text-shadow: 2px 0 red; }
+  25% { text-shadow: -2px 0 cyan; }
+  50% { text-shadow: 2px 0 lime; }
+  75% { text-shadow: -2px 0 purple; }
+  100% { text-shadow: 0 0 transparent; }
+}
+
+.animate-glitch {
+  animation: glitch 0.4s infinite;
+}
